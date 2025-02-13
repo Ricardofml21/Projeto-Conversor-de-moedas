@@ -1,3 +1,4 @@
+
 * {
     margin: 0;
     padding: 0;
@@ -42,7 +43,6 @@ select, input {
     height: 48px;
     width: 100%;
     margin-bottom: 24px;
-    appearance: none;
     padding-left: 18px;
     font-weight: 700;
     font-size: 16px;
@@ -104,5 +104,4 @@ section {
 .currency {
     color: #777777;
 font-size: 14px;
-
 }
